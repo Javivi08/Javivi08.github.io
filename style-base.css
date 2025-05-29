@@ -1,5 +1,5 @@
  html{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #87bfff;
   color: #333;
   line-height: 1.6;
@@ -65,7 +65,7 @@ header{
     }
 }
 ._index>p>a{
-     display: block;
+      display: block;
       margin: 0.5rem 0;
       color: #003366;
       text-decoration: none;
@@ -79,7 +79,7 @@ header{
   background-color: #2e008b;
 }
 .enlaces{
- background-color: #2293b2;
+  background-color: #2293b2;
   color: rgb(249, 248, 247);
   padding: 0.5rem 1rem;
   text-decoration: none;
@@ -92,11 +92,11 @@ header{
     margin-top: 3%;
     background-color: aliceblue;
     display: flex;
-   align-items: center;
+    align-items: center;
    
 }
 .title{
-   text-align: center;
+  text-align: center;
   margin-bottom: 1rem;
   font-size: 2rem;
   color: #333;
@@ -108,10 +108,10 @@ header{
 }
 .ltexto{
     display: block;
-      margin: 0.5rem 0;
-      color: #003366;
-      text-decoration: none;
-      font-weight: bold
+    margin: 0.5rem 0;
+    color: #003366;
+    text-decoration: none;
+    font-weight: bold
 }
 .ltexto>a{
     text-decoration: none;
@@ -119,15 +119,15 @@ header{
    
 }
 .texto>*{
-     font-size: 1.1rem;
+  font-size: 1.1rem;
   color: #333;
   line-height: 1.6;
 }
 .texto>img{
   border: solid 4px black;
-   animation-name: ampliar2;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;
+  animation-name: ampliar2;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 }
 @keyframes ampliar2{
     0%{
